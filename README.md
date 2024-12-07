@@ -2,7 +2,7 @@
 
 Hey 👋👋, 
  
-My name is Kush and I'm a Junior Computer Science Major 💻 at the Rose-Hulman Institute of Technology. I have a strong passion for solving problems with software, and I undertake side projects with the intent of making my life easier and enhancing my skills. 
+My name is Kush. I have a strong passion for solving problems with software, and I undertake side projects with the intent of making my life easier and enhancing my skills. 
 
 Check out some of my Projects!
 
