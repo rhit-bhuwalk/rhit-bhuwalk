@@ -56,7 +56,7 @@ I build things that should have existed years ago. Half engineer, half entrepren
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhit-bhuwalk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://greptile-stats.vercel.app/api/widget/rhit-bhuwalk/stats" alt="GitHub Stats" />
 </div>
 
 ## 📫 Connect with Me
