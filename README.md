@@ -2,11 +2,13 @@ you've reached kush's network.
 
 quick info
 
-* i'm a futurist who loves building stuff, especially ai-powered solutions
+* self proclaimed ai engineer
 
-* currently building developiq (www.developiq.ai)
+* love building stuff 
 
-* 3x hackathon winner (started competing 2 months ago).
+* currently working on developiq (www.developiq.ai)
+
+* 3x hackathon winner #flex
 
 check out my repos below
 
