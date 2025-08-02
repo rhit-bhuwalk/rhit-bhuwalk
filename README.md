@@ -8,7 +8,7 @@ quick info
 
 * currently working on developiq (www.developiq.ai)
 
-* 3x hackathon winner #flex
+* 4x hackathon winner #flex
 
 check out my repos below
 
